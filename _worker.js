@@ -1,7 +1,7 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
 
-let Pswd = '221994';
+let Pswd = '94f9029f89b5f6a23bbc9ee7d1bb96097121332f860460618aeb2587';
 let proxyIP = "35.219.50.99";
 let hostnames = ["idgo.bagyogg.my.id"];
 let sha224Password ;
