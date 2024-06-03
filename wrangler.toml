@@ -1,11 +1,11 @@
-name = "sgamazon" # todo
+name = "idgoogle" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sgamazon.cllo.my.id"
+pattern = "idgoogle.my.id"
 custom_domain = true
 
 
@@ -17,4 +17,4 @@ custom_domain = true
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 PASSWORD = "Rere"
-PROXYIP = "13.250.131.37"
+PROXYIP = "35.219.50.99"
