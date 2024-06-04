@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '5b6b0e56-69bb-4ea4-9b11-c9897610c73a';
 
 let proxyIP = "213.35.115.68";
-let hostnames = ['sgo2.gratisanvpn.biz.id'];
+let hostnames = ['sgo2.bagyogg.my.id'];
 
 if (!isValidUUID(userID)) {
 	throw new Error('uuid is not valid');
