@@ -8,6 +8,7 @@ compatibility_date = "2023-05-26"
 pattern = "sgo2.gratisanvpn.biz.id"
 custom_domain = true
 
+
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
 # PROXYIP = "1.2.3.4"
@@ -15,4 +16,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "5b6b0e56-69bb-4ea4-9b11-c9897610c73a"
+UUID = "1b6c1745-992e-4aac-8685-266c090e50ea,89b64978-6244-4bf3-bf64-67ade4ce5c8f,d342d11e-d424-4583-b36e-524ab1f0afa4"
