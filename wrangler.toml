@@ -1,11 +1,11 @@
-name = "jp" # todo
+name = "sgo2" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "jp.bagyogg.my.id"
+pattern = "sgo2.gratisanvpn.biz.id"
 custom_domain = true
 
 [vars]
@@ -15,4 +15,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "db52bd94-f33b-4a3f-9667-860c0abe69ca"
+UUID = "5b6b0e56-69bb-4ea4-9b11-c9897610c73a"
